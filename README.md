@@ -129,7 +129,7 @@ For any inquiries or issues, please contact:
 
 - **Name:** Rohit Kumar
 - **Email:** rohit.rk2146@gmail.com
-- **GitHub:** [yourusername](https://github.com/rohit-kumar-india)
+- **GitHub:** [rohit-kumar-india](https://github.com/rohit-kumar-india)
 
 ## Screenshots
 
